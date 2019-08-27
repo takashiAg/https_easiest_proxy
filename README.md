@@ -4,8 +4,8 @@
 
 
 ```
-git clone this repository
-cd path/to/repository
+git clone https://github.com/takashiAg/https_easiest_proxy
+cd https_easiest_proxy
 npm install
 openssl genrsa 2048 > mysslserver.key
 openssl req -new -key mysslserver.key -subj "/C=JP/ST=Tokyo-to/L=Shibuya/O=Company Name/OU=IT dept./CN=Company Dept CA" > mysslserver.csr
