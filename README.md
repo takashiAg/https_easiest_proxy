@@ -1,6 +1,6 @@
 # easy proxy
 
-## insration
+## installation
 
 
 ```
