@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "easiest node https oreore authentication",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy": "^1.17.0",
+    "node-irc": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ryosuke ando ryo@ando.link",
+  "license": "MIT"
+}
