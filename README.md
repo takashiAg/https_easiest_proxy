@@ -23,5 +23,5 @@ node proxy.js
 ### change port
 
 ```
-WAN=80&&LAN=3000 node proxy.js
+WAN=80 LAN=3000 node proxy.js
 ```
